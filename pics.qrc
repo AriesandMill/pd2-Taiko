@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pic.jpg</file>
+        <file>mob.png</file>
+    </qresource>
+</RCC>
